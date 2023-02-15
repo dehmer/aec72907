@@ -2,6 +2,7 @@
   "name": "svelte-webpack",
   "version": "0.0.0",
   "description": "Svelte/Webpack Template",
+  "keywords": ["svelte", "webpack"],
   "author": "horst.dehmer@syncpoint.io",
   "devDependencies": {
     "cross-env": "^7.0.3",
